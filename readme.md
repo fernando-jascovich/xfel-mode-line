@@ -14,4 +14,4 @@ I included xfel-mode-line into my emacs using [straight](https://github.com/raxo
 ```
 
 ## Screenshot
-![screenshot_001.jpg](screenshot_001.jpg)
+![screenshot_002.jpg](screenshot_002.jpg)
