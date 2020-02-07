@@ -9,5 +9,6 @@ I included xfel-mode-line into my emacs using [straight](https://github.com/raxo
 ```
 (straight-use-package
  '(xfel-mode-line :type git :host github :repo "fernando-jascovich/xfel-mode-line"))
+(require 'xfel-mode-line)
 (xfel-mode-line-mode 1)
 ```
